@@ -1,2 +1,2 @@
 # logger-app
-Testing logger
+npm start

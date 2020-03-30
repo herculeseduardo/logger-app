@@ -1,7 +1,7 @@
 const http = require('http')
 const express = require('express')
 const cors = require('cors')
-const { generateId } = require('./../middlewares/genID')
+const { generateId } = require('./middlewares/genID')
 const logger = require('./logger')
 
 const app = express()
